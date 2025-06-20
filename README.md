@@ -273,8 +273,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://github.com/infoedesigner">
  <img src="" width="100px" alt="André Luiz" />
  <br />
- <sub><b>André Luiz de Souza Silveira</b></sub></a>
- <br />
 
 ---
 
